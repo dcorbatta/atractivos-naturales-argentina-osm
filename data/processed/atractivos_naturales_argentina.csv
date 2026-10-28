@@ -1,0 +1,1001 @@
+osm_type,osm_id,name,attraction_type,latitude,longitude,ele,has_name
+node,300831066,Gruta India,cave_entrance,-26.7586574,-54.9234052,,True
+node,654057020,Cueva de las Manos,cave_entrance,-47.1552731,-70.6559679,,True
+node,1041581485,Caverna de las Brujas,cave_entrance,-35.8006915,-69.8204056,,True
+node,1609081326,Cuevas Maragatas del Barrio del Tambor,cave_entrance,-40.8002598,-62.9875227,,True
+node,1609081328,Cueva Maragata del Casco Histórico,cave_entrance,-40.8033655,-62.985301,,True
+node,1902274801,,cave_entrance,-36.3396967,-56.7510217,,False
+node,1902274803,,cave_entrance,-36.3397591,-56.7510378,,False
+node,2177700686,Cavas de Zonda,cave_entrance,-31.555833,-68.6978402,,True
+node,2223196870,,cave_entrance,-38.1262562,-61.9611932,,False
+node,2317928327,Casa de Piedra,cave_entrance,-30.8731785,-64.6468701,,True
+node,2747306279,Polvorin,cave_entrance,-28.4316004,-65.8021989,,True
+node,3186551119,Cueva de Cubas,cave_entrance,-28.2213917,-65.791141,,True
+node,3932996189,Cave,cave_entrance,-31.4182288,-64.8061016,,True
+node,4422351939,Cueva del León,cave_entrance,-38.62588,-70.2244512,,True
+node,4884493023,Cuevas de Acsibi,cave_entrance,-25.3412452,-66.0556281,,True
+node,4972807795,Primera Cueva de Wayra,cave_entrance,-23.5650733,-65.4111331,,True
+node,4972807796,Segunda Cueva de Wayra,cave_entrance,-23.5653041,-65.410801,,True
+node,5310701456,,cave_entrance,-54.4366442,-66.5285619,,False
+node,5315497465,,cave_entrance,-35.5198444,-69.7945983,,False
+node,5325808066,,cave_entrance,-31.9194236,-64.9646003,,False
+node,5405298199,,cave_entrance,-31.9728499,-64.9460111,,False
+node,5425568896,,cave_entrance,-40.1775303,-71.441796,,False
+node,5835273624,,cave_entrance,-26.4603043,-54.6602646,,False
+node,5840522121,Ventana,cave_entrance,-38.0483431,-62.0172725,,True
+node,6113890820,Cuevas Maragatas de Laguna Grande,cave_entrance,-40.8368744,-62.9340349,,True
+node,6313322417,La Cueva,cave_entrance,-49.2920127,-73.0120844,,True
+node,6328398397,Arañamun,cave_entrance,-39.315572,-70.525714,,True
+node,6369233600,Entrada de río,cave_entrance,-49.357353,-73.1635621,,True
+node,6436862832,Santo Sepulcro,cave_entrance,-38.0892994,-62.1940752,,True
+node,6910165723,Las Grutas,cave_entrance,-40.809751,-65.0845685,,True
+node,7027105561,Los 40,cave_entrance,-31.9915871,-64.930036,,True
+node,7662412813,Gruta de Oro,cave_entrance,-37.6004047,-59.4701372,,True
+node,7941705348,Cuevas Las Hornillas,cave_entrance,-31.7118342,-69.7373376,,True
+node,8000889738,Gruta de Lourdes,cave_entrance,-37.3290911,-59.1524544,,True
+node,8345824937,Chenque de Charahuilla,cave_entrance,-39.3835617,-70.4419945,,True
+node,8433439118,,cave_entrance,-30.8450023,-64.5479708,,False
+node,8600729593,La ventana,cave_entrance,-41.1927083,-71.3839272,,True
+node,8686087291,,cave_entrance,-37.6063857,-59.4139845,,False
+node,8893526728,Cueva del Belisario,cave_entrance,-38.1181906,-61.9514205,,True
+node,8999454028,Cueva de Las Ánimas,cave_entrance,-37.3499291,-59.0907834,,True
+node,9101930839,Tunel Estancia Las Rosas,cave_entrance,-31.7291062,-64.4348565,,True
+node,9201400163,Tercera Caverna,cave_entrance,-41.0812432,-71.1431927,,True
+node,9384169682,,cave_entrance,-38.6265372,-60.6072639,,False
+node,9486294669,Casa de Piedra,cave_entrance,-40.4980866,-71.2038719,,True
+node,9522279506,Primera Caverna,cave_entrance,-41.08023,-71.1429527,,True
+node,9522279507,Segunda Caverna,cave_entrance,-41.0807144,-71.1431043,,True
+node,9740558711,Cuevas de la Blanca,cave_entrance,-37.3586541,-59.0828161,,True
+node,9770285729,Cueva Florencio,cave_entrance,-38.1942231,-61.9005022,,True
+node,9770285731,Cueva de Jackson,cave_entrance,-38.1595937,-61.9454442,,True
+node,9770285734,Cueva del Encuentro,cave_entrance,-38.1501176,-61.9520864,,True
+node,9770285736,Cueva San Diego,cave_entrance,-38.143813,-61.9466799,,True
+node,9770285737,Cueva San Bernardo,cave_entrance,-38.1743328,-61.9218361,,True
+node,9770285738,Cueva Vacacuá,cave_entrance,-38.1515553,-61.9261004,,True
+node,9770285739,Cueva del Bautismo,cave_entrance,-38.1090339,-61.9567801,,True
+node,9770285741,Cueva de los Helechos,cave_entrance,-38.101635,-61.9567954,,True
+node,9770285769,Cueva del Escorpión,cave_entrance,-38.200046,-61.9219137,,True
+node,9770285770,Cueva del Toro,cave_entrance,-38.0235479,-62.0350835,,True
+node,9770285771,Gruta de los Espíritus,cave_entrance,-37.7272408,-62.2094909,,True
+node,9844384682,Ventana del Vacacuá,cave_entrance,-38.1389837,-61.9350882,,True
+node,9844384694,Arco y Chimenea Quebrada Blanca,cave_entrance,-38.0801953,-61.9865763,,True
+node,9844384699,Alero Corpus Christi,cave_entrance,-38.0272247,-62.0276486,,True
+node,9844384701,Cueva Estación 8,cave_entrance,-38.0493992,-62.0148166,,True
+node,9844384710,Ventanas Madre e Hija,cave_entrance,-37.8121694,-62.1472609,,True
+node,9856409315,,cave_entrance,-38.0610025,-62.0666049,,False
+node,9945209101,Cueva Maragata del Rancho Rial,cave_entrance,-40.8028178,-62.985194,,True
+node,9952890540,,cave_entrance,-40.83612,-62.934212,,False
+node,9967972960,Cueva de la Marmolina,cave_entrance,-31.2991257,-64.3992537,,True
+node,9983773759,Gruta de Lourdes,cave_entrance,-39.5248185,-62.6593783,,True
+node,10117649795,Cueva Cerro Pirámide,cave_entrance,-37.7781158,-62.1547401,,True
+node,10247621455,Angosto de Jaire,cave_entrance,-24.0230111,-65.3898969,,True
+node,10313814478,Cañadon de la Oveja,cave_entrance,-54.7747501,-68.4534862,,True
+node,10560527098,,cave_entrance,-41.1016941,-70.8427254,,False
+node,10580486926,Las Cuevas,cave_entrance,-41.0501779,-71.1167387,,True
+node,11047321669,Cueva Oscura,cave_entrance,-37.6021096,-59.4631293,,True
+node,11047321670,Cueva Oscura,cave_entrance,-37.6024039,-59.4630925,,True
+node,11070060689,Cueva del Oso,cave_entrance,-24.5741674,-67.3996724,,True
+node,11212592050,La Cueva del Leon,cave_entrance,-39.0129195,-67.9495288,,True
+node,11578990684,Ventana Natural,cave_entrance,-42.8843619,-71.2944085,,True
+node,11651393883,,cave_entrance,-42.7856769,-64.9547535,,False
+node,11651393884,,cave_entrance,-42.7856545,-64.9545787,,False
+node,11651393885,,cave_entrance,-42.7877053,-64.9515486,,False
+node,11651393955,,cave_entrance,-42.7800309,-65.0013901,,False
+node,11651393956,,cave_entrance,-42.7799561,-65.0010763,,False
+node,11799809244,,cave_entrance,-41.8480927,-71.6252874,,False
+node,11799809255,,cave_entrance,-41.8477818,-71.6243488,,False
+node,11908226780,La Ciénaga (Campamento),cave_entrance,-28.456481,-66.0282204,3772.0,True
+node,12072485960,Las Cuevas Coloradas,cave_entrance,-39.1197594,-68.1691012,,True
+node,12125236208,Cueva de La Luisa,cave_entrance,-37.8567081,-62.0755771,,True
+node,12207397216,Gruta de la Virgen de Fátima,cave_entrance,-32.8879832,-64.8724543,,True
+node,12312665201,,cave_entrance,-32.8192163,-70.0272394,,False
+node,12356219143,La Gruta,cave_entrance,-40.6327574,-71.3684168,,True
+node,12451322823,Cueva de los Leones,cave_entrance,-47.750509,-65.8616136,,True
+node,12451322895,Cuevas de Piccinini,cave_entrance,-47.8083009,-66.1436462,,True
+node,12501360707,,cave_entrance,-50.3873888,-72.2212091,,False
+node,12805103169,,cave_entrance,-26.0867578,-65.4835648,,False
+node,13014752209,Cueva del Indio,cave_entrance,-32.6338422,-64.945429,,True
+node,13169594731,Ventana,cave_entrance,-49.0623529,-70.2410704,,True
+node,13226846057,Cueva,cave_entrance,-25.4283017,-67.1841176,,True
+node,13226846074,Cueva,cave_entrance,-25.427168,-67.1840639,,True
+node,13283053198,Pinturas rupestres,cave_entrance,-39.6342504,-70.9353177,0.0,True
+node,13336510729,Minas de mica,cave_entrance,-28.3061376,-65.7429895,,True
+node,13464439201,Cueva,cave_entrance,-23.5978179,-65.4344414,,True
+node,14041424901,Cueva de los Chanchos,cave_entrance,-31.164601,-64.3401712,,True
+way,1447713639,,cave_entrance,-39.6342257,-70.935315,,False
+node,96183119,Cerro Zapaleri,peak,-22.814085,-67.1804928,5607.0,True
+node,96183240,,peak,-27.9484749,-69.1558572,,False
+node,96183782,,peak,-25.5492029,-68.5429877,,False
+node,96184721,Arrieros / Chullo Bayo,peak,-27.1364626,-68.6551124,5895.0,True
+node,96185123,Cerro Tridente,peak,-26.2871033,-68.5575358,5416.0,True
+node,96191665,Cerro Barrancas,peak,-36.1714645,-70.4471576,3092.0,True
+node,96193191,,peak,-38.8836041,-71.3484073,,False
+node,96193983,,peak,-40.0462856,-71.6836721,,False
+node,493643099,,peak,-34.7947307,-70.2514476,,False
+node,511972330,,peak,-38.3556362,-70.996761,,False
+node,511972338,,peak,-38.1238128,-71.0436911,,False
+node,511975856,,peak,-39.9705999,-71.6199583,,False
+node,511976599,,peak,-40.3069162,-71.746743,,False
+node,672565665,Aguja Saint-Exupéry,peak,-49.2881803,-73.038817,2558.0,True
+node,1272284565,,peak,-27.0725884,-68.385604,,False
+node,1272302196,,peak,-27.2637962,-68.8633462,,False
+node,1272364370,,peak,-28.0975041,-69.3022031,,False
+node,1273007171,,peak,-28.2063889,-69.4168568,,False
+node,1273018296,,peak,-26.7968012,-68.234211,,False
+node,1273024777,,peak,-25.881776,-68.3651886,,False
+node,1341009099,Monte Zeballos,peak,-47.0358258,-71.7009059,2743.0,True
+node,1419492206,,peak,-38.8669909,-71.2593986,,False
+node,1473193811,,peak,-40.9992388,-71.8751467,,False
+node,1527730145,Cerro El Centinela,peak,-37.3554731,-59.1719771,298.0,True
+node,1548815217,Llao Llao,peak,-41.046985,-71.553962,1025.0,True
+node,1594589448,Cerro Mulloc,peak,-22.4669725,-65.5684569,3837.0,True
+node,1596152417,Cerro Casayoc,peak,-22.9045278,-65.4166915,4000.0,True
+node,1596302927,Cerro Morada,peak,-22.6497186,-65.3732247,4680.0,True
+node,1596337016,Cerro Negro,peak,-22.1470348,-65.1934884,5026.0,True
+node,1836808367,Cerro Napostá,peak,-38.132843,-61.9599152,1110.0,True
+node,2078037486,Cerro Yaretayoc?,peak,-22.8616159,-65.2621421,3970.0,True
+node,2164221180,,peak,-47.9611789,-72.4772587,,False
+node,2164853275,,peak,-50.5724855,-73.3039141,,False
+node,2369536946,Cerro Acantilado Las Margaritas,peak,-45.6205239,-71.7617672,966.0,True
+node,2371152980,,peak,-46.1236637,-71.8729717,,False
+node,2371153010,Cerro Rojo,peak,-46.1099326,-71.7602832,1765.0,True
+node,2375364462,,peak,-43.6782377,-71.5673418,1964.0,False
+node,2375386252,,peak,-43.7916567,-71.750865,,False
+node,2375403238,,peak,-43.5755364,-71.5666724,,False
+node,2400216747,,peak,-23.2540468,-65.0347667,4700.0,False
+node,2677302564,Cerro Pirquas (Cerro Bayo Archibarca),peak,-23.5580078,-66.9594555,4630.0,True
+node,2797427728,Cerro Cortaderal,peak,-24.254007,-65.6110134,5463.0,True
+node,2803079479,Cerro El Paño,peak,-24.2875746,-65.4274881,2197.0,True
+node,3196045546,El Morro,peak,-49.1987381,-73.0968028,,True
+node,3242086072,,peak,-44.1558078,-71.8478716,,False
+node,3275572262,,peak,-41.2447955,-71.8424932,,False
+node,3284698121,,peak,-48.6350998,-72.0878556,,False
+node,3284698317,,peak,-48.813406,-72.5107473,,False
+node,3284698345,,peak,-48.9922768,-72.6414568,,False
+node,3284698353,,peak,-49.0943791,-72.6482016,,False
+node,3312421410,,peak,-50.6397925,-73.1357459,,False
+node,3323556804,,peak,-39.8728741,-71.6132056,,False
+node,3324202519,Cerro Las Lajas,peak,-43.7030843,-71.6614727,1773.0,True
+node,3330392782,,peak,-54.8685045,-66.7732007,,False
+node,3330393838,,peak,-54.9584893,-66.1947018,,False
+node,3330493582,,peak,-54.6920879,-67.403876,,False
+node,3381605100,Cerro Bico,peak,-40.203499,-71.4915814,1611.0,True
+node,3445765584,,peak,-24.465841,-67.2551623,5470.0,False
+node,4041937404,Sierra Pintada,peak,-27.4694817,-68.4674398,5588.0,True
+node,4044892538,Cerro Aguada de Quirquinchos,peak,-27.7815107,-68.2040384,3980.0,True
+node,4044894198,,peak,-27.9996784,-68.0640843,3680.0,False
+node,4051542324,Cerro de la Punilla,peak,-27.8486673,-68.5245714,,True
+node,4066709272,Cerro Mojónes,peak,-25.6542661,-67.3557935,5733.0,True
+node,4066777331,,peak,-25.3898294,-67.2840132,4810.0,False
+node,4071131243,,peak,-44.6962815,-71.0025556,1262.0,False
+node,4108063344,Cerro Dirección,peak,-54.859077,-67.6982924,,True
+node,4122716969,Cerro María Cristina,peak,-38.3657194,-61.870059,372.0,True
+node,4207975014,Cerro Gino Pertile,peak,-32.6042051,-70.1633048,4852.0,True
+node,4339367184,Monte Torre,peak,-54.8018409,-64.1988649,710.0,True
+node,4341818860,Cerro Paiquenes,peak,-29.1830185,-68.8185177,,True
+node,4341818873,Cerro Torre,peak,-29.4305528,-68.8459148,2526.0,True
+node,4399024822,Cerro Bayo O Amarillo,peak,-41.4078373,-70.5688422,1474.0,True
+node,4419357370,Cerro Cerrito Guacho,peak,-40.5113065,-70.36692,743.0,True
+node,4420544507,Cerro Bonito,peak,-40.1466503,-69.9187319,895.0,True
+node,4420609471,Cerro del León,peak,-39.6620032,-71.0490189,1443.0,True
+node,4420785277,Cerro de La Uña,peak,-39.5865545,-71.3371274,1462.0,True
+node,4420911547,Cerro del Overo,peak,-39.334683,-70.1573336,1170.0,True
+node,4421137174,Peña Carreri,peak,-38.9103554,-70.4856397,1170.0,True
+node,4422324732,Cerro Cochicó,peak,-38.8597078,-70.7863893,2274.0,True
+node,4422438488,Cerro Atravesado,peak,-38.9315024,-69.7048728,849.0,True
+node,4422438594,Cerro El Quemado,peak,-39.2212122,-69.0630148,752.0,True
+node,4422438600,Cerro Pelado,peak,-38.6738395,-69.8256125,760.0,True
+node,4422459142,Cerro Bayo,peak,-39.5567536,-68.9330454,479.0,True
+node,4423684390,Cerro Cortado,peak,-39.8540382,-68.3634415,727.0,True
+node,4423753329,Cerro Sosa,peak,-40.0992591,-68.2480557,951.0,True
+node,4424022512,Cerro Anecón Chico,peak,-40.9237137,-69.874054,1448.0,True
+node,4424022523,Cerro Negro,peak,-40.9923462,-70.3824592,1417.0,True
+node,4425122390,Cerro Siempre Amigo,peak,-37.0327185,-59.8638058,283.0,True
+node,4425247324,Cerro León,peak,-41.283238,-67.0295529,,True
+node,4425261644,Cerro Moligüe,peak,-41.9472133,-69.4289322,1515.0,True
+node,4432862086,Cerro Mirador Chico,peak,-42.4045651,-70.0800786,1503.0,True
+node,4432899380,Cerro El Indio,peak,-43.6837195,-68.303978,758.0,True
+node,4433279788,Cerro Redondo,peak,-43.5574048,-70.0425222,1098.0,True
+node,4433281398,Cerro Vacas Muertas,peak,-42.5978122,-71.2748752,1628.0,True
+node,4434446995,Cerro Crespo,peak,-44.1841213,-70.584317,1078.0,True
+node,4434447013,Cerro Montgomery,peak,-43.667239,-70.7057734,1615.0,True
+node,4434447017,Cerro Painela,peak,-44.0439164,-71.0918293,1230.0,True
+node,4434533419,Cerro El Bagual,peak,-44.265583,-68.8296433,939.0,True
+node,4434533450,Cerro San Fulgencio,peak,-44.5376439,-65.3656592,66.0,True
+node,4434727451,Cerro Maldito,peak,-45.764403,-67.7295198,524.0,True
+node,4434727455,Cerro Salpu O Negro,peak,-45.3690946,-68.0875945,584.0,True
+node,4434947265,Cerro El Puntudo,peak,-44.5848192,-70.6937675,1094.0,True
+node,4436670674,Romberg,peak,-46.6433675,-68.8642636,589.0,True
+node,4436776412,Cerro Mojón O Letrina,peak,-47.2531537,-67.801106,381.0,True
+node,4444550131,Cerro Poivre,peak,-47.3116489,-70.8016424,1025.0,True
+node,4444550135,Cerro Redondo,peak,-46.880071,-71.0728261,1512.0,True
+node,4446132792,Cerro Cerrito Solo,peak,-48.1538413,-68.0205607,207.0,True
+node,4446132809,Cerro Horqueta O Madre E Hija,peak,-47.7060202,-68.1105731,400.0,True
+node,4446132817,Cerro Loma de Los Baguales,peak,-47.9244118,-66.8674316,172.0,True
+node,4446511751,Cerro Observación,peak,-50.3636699,-68.9780169,318.0,True
+node,4446511775,Cerro de Las Vacas,peak,-49.021548,-71.6257763,1072.0,True
+node,4446511776,Cerro del Mojón,peak,-50.1110957,-70.3809853,416.0,True
+node,4446629149,Cerro Negro,peak,-47.8646972,-71.752918,1428.0,True
+node,4455218469,Cerro Las Yeguas,peak,-38.356583,-70.2988696,1608.0,True
+node,4455218486,Cerro de los Postes,peak,-38.2699212,-70.7583474,,True
+node,4455225703,Cerro Negro,peak,-38.4425956,-69.8127947,1058.0,True
+node,4455236445,Cerro El León,peak,-38.4331243,-68.7764835,545.0,True
+node,4455557061,Cerro Bayo,peak,-37.5076844,-69.5655546,1596.0,True
+node,4456464919,Cerro Las Cortaderas,peak,-37.4753093,-70.3903694,1680.0,True
+node,4456491772,Cerro Negro,peak,-37.1110389,-70.7188501,1594.0,True
+node,4456599085,Cerro de la Teta,peak,-37.0607185,-69.5226444,,True
+node,4456599086,Cerro Ñiraico,peak,-37.0417886,-70.5004506,2760.0,True
+node,4456616420,Cerro Huemul,peak,-36.9589332,-69.8686285,1433.0,True
+node,4456953444,Cerro Cerrito Yerua,peak,-27.6778812,-56.3611298,89.0,True
+node,4456953451,Cerro Pajarito,peak,-29.3929941,-58.126245,124.0,True
+node,4456987192,Cerro Negro,peak,-31.6697924,-65.2326615,,True
+node,4456990018,Cerro Era,peak,-30.5799787,-64.0699692,697.0,True
+node,4456990027,Cerro San Vicente,peak,-30.4195385,-64.2722709,1156.0,True
+node,4458215633,Cerro Bayo,peak,-37.0449569,-68.8626285,,True
+node,4458337993,Cerro Pirquitas,peak,-35.9633938,-69.4248481,2082.0,True
+node,4458337999,Cerro Romanza,peak,-35.6999495,-70.1516681,2375.0,True
+node,4463554443,Cerro Yeseras,peak,-35.230279,-70.2189283,3397.0,True
+node,4463760532,Cerro Las Cabras,peak,-35.1368374,-69.7658024,2505.0,True
+node,4463760534,Cerro Las Hoyadas,peak,-35.1114894,-69.8971159,3029.0,True
+node,4463760543,Cerro Sosneado,peak,-34.7540349,-69.9719098,5189.0,True
+node,4463850975,Cerro Aspero,peak,-35.3790836,-68.568902,,True
+node,4463855601,Cerro Morados,peak,-35.305974,-68.987752,1506.0,True
+node,4500350939,Cerro Boleadero,peak,-31.8659689,-69.9015424,4210.0,True
+node,4501080697,Cerro del Corral,peak,-34.0990915,-69.2867575,2775.0,True
+node,4501080703,Cerro Puntilla de Las Mulas,peak,-34.1197714,-69.3439336,3486.0,True
+node,4501080706,Cerro San Agustín,peak,-34.0419642,-69.3994823,3168.0,True
+node,4506870500,Cerro Chivato,peak,-33.6842125,-69.3374782,,True
+node,4506870505,Cerro Aspero,peak,-33.8289954,-69.2345223,1363.0,True
+node,4521663987,Cerro Melocotón,peak,-32.9363168,-69.0244908,2093.0,True
+node,4531466848,,peak,-39.3840381,-71.422184,,False
+node,4532225557,Cerro Clementillo,peak,-32.5549635,-69.147583,3254.0,True
+node,4532567332,Cerro Los Corrales,peak,-32.3288005,-68.945317,2155.0,True
+node,4556376920,,peak,-24.2537069,-67.7297728,,False
+node,4556376923,,peak,-24.3031935,-67.7637939,,False
+node,4556376924,,peak,-24.3089428,-67.7537195,,False
+node,4556376960,,peak,-24.4239583,-68.0555673,,False
+node,4556376961,,peak,-24.4138962,-68.0519409,,False
+node,4556377813,,peak,-23.5708168,-67.0498422,,False
+node,4556377866,Cerro Oscara,peak,-24.1738137,-67.2789354,5155.0,True
+node,4563509009,Cerro La Cercada,peak,-31.1421698,-67.3701899,2124.0,True
+node,4563509014,Cerro Overo,peak,-31.010144,-67.4712608,2646.0,True
+node,4563649001,Cerro de Mazan,peak,-28.6173243,-66.4727008,1232.0,True
+node,4563649005,Cerro Mazan,peak,-28.6363319,-66.5489216,880.0,True
+node,4563716185,Mogote Totoral,peak,-29.7494911,-67.4209518,1726.0,True
+node,4564042177,Cerro Viejo de San Roque,peak,-30.3114971,-68.7396817,1736.0,True
+node,4564057003,Cerro Alumbre,peak,-30.0887529,-68.9398108,,True
+node,4564069279,Cerro Tolar,peak,-29.0519607,-67.9169359,4020.0,True
+node,4564099396,Cerro del Río Blanco,peak,-30.8702414,-70.1008086,4006.0,True
+node,4564110599,Cerro Las Raices,peak,-30.0599377,-69.6050825,5131.0,True
+node,4564110601,Cerro del Punto Negro,peak,-29.6909537,-69.3057973,3531.0,True
+node,4564132716,Cerro Los Mogotes,peak,-28.6174014,-69.5737224,5411.0,True
+node,4567252341,Cerro Fraile,peak,-27.6582357,-67.3483975,4038.0,True
+node,4573396647,Cerro Quemado,peak,-27.5125389,-66.632884,2696.0,True
+node,4573901336,Cerro Alto de Los Torres,peak,-26.722809,-66.1506205,,True
+node,4575268774,Cerro Alto del Volcán,peak,-27.395885,-67.2834404,4851.0,True
+node,4579448609,Cerro Aspereza,peak,-25.8496525,-66.1829765,3876.0,True
+node,4579568226,Médano del Cajoncito,peak,-25.6358529,-65.1526375,,True
+node,4579568248,Médano del Durazno,peak,-25.8811714,-65.6322052,2715.0,True
+node,4579568265,Cerro Perrayacu,peak,-25.2777234,-66.0213566,,True
+node,4581785998,Cerro Alto Talar,peak,-24.9620997,-64.7022352,1915.0,True
+node,4581786033,Cerro Redondo,peak,-24.8002076,-65.7537446,4116.0,True
+node,4581786055,Cerro Dos Picos Altos,peak,-23.9171057,-64.4522021,1410.0,True
+node,4582102828,Cerro Buitre,peak,-33.9454391,-69.4452979,4162.0,True
+node,4646642337,,peak,-30.4281756,-69.2324934,,False
+node,4758739621,Cerro Las Mellizas,peak,-41.3887479,-71.2612166,,True
+node,4848410715,Cerro Comandante Dublé Almeyda / Cerro Comandante Piedra Buena,peak,-50.7023086,-73.1718207,2464.0,True
+node,4877386326,,peak,-36.6109418,-71.0503918,,False
+node,5105405955,Cerro Chuj Chuj,peak,-22.348895,-66.3324344,4284.0,True
+node,5109659526,Cerro Pgros,peak,-22.487495,-65.5404133,3727.0,True
+node,5109659534,Cerro Cajones,peak,-22.4917715,-65.5756974,3944.0,True
+node,5110696733,Cerro Guapo,peak,-23.0096183,-66.0135583,3728.0,True
+node,5122673039,Cerro Agua Caliente,peak,-24.2956481,-66.510704,5397.0,True
+node,5122673057,Cerro Oire Grande,peak,-24.9620511,-66.5898557,5588.0,True
+node,5122673066,Médano de Apacheta,peak,-24.8458436,-66.8945038,,True
+node,5122673117,Cerro Angosto de Sijes,peak,-23.9972878,-66.621325,4915.0,True
+node,5122673341,Médano Sepultura,peak,-22.2218609,-64.9767761,,True
+node,5122673360,Médano Rachaite,peak,-22.8842316,-66.2246826,,True
+node,5209287025,Cerro Chenen,peak,-54.3197651,-67.9233281,,True
+node,5209343733,Cerro Piedras,peak,-54.660761,-65.8179015,,True
+node,5209343743,Cerro Spion-Kop,peak,-54.7391613,-67.2838936,846.0,True
+node,5209343749,Cerro Jeujepen,peak,-54.5931519,-67.2210504,,True
+node,5209358349,Cerro Los Ortiz,peak,-54.754892,-64.2780754,,True
+node,5372652088,,peak,-40.6948912,-71.2654996,,False
+node,5479395065,,peak,-37.274977,-71.2208167,2286.0,False
+node,5607545243,Cerro La Cocha,peak,-31.6175888,-64.5463861,,True
+node,5607545255,Las Bandurrias,peak,-31.6949336,-64.5425994,,True
+node,5811519786,,peak,-40.0686299,-71.6267182,1820.0,False
+node,6067375690,,peak,-28.4535008,-69.6671498,,False
+node,6067375727,,peak,-28.6045334,-69.6875955,,False
+node,6169872019,,peak,-25.0303656,-68.4054709,,False
+node,6173758489,,peak,-43.5482798,-71.848349,,False
+node,6174035557,,peak,-49.8045147,-73.4704578,,False
+node,6175589444,,peak,-35.6575251,-70.4075548,,False
+node,6177403644,,peak,-39.7653686,-71.6819716,,False
+node,6182114343,Cerro Tecar,peak,-24.4841876,-68.3872399,5341.0,True
+node,6186900690,,peak,-40.1126323,-71.6889131,,False
+node,6263893934,Cerro del Molle,peak,-36.3801081,-68.9955143,,True
+node,6300242485,Cerro Pirámide,peak,-47.6783337,-72.3589612,,True
+node,6443953717,,peak,-29.9407387,-69.8959342,,False
+node,6443953718,,peak,-29.9353471,-69.8941058,,False
+node,6498973667,Cerro Los Moscos,peak,-41.320526,-71.636303,1809.0,True
+node,6797609162,,peak,-30.3716428,-68.9026317,2733.0,False
+node,6797609167,Mogote Herradura,peak,-31.1549873,-69.0500187,2718.0,True
+node,6797615785,,peak,-29.725597,-68.6334078,2659.0,False
+node,6797615793,Yanso,peak,-29.8259671,-68.5750718,2670.0,True
+node,6797615921,,peak,-30.6841761,-70.0519882,4644.0,False
+node,6797615974,,peak,-31.3264261,-68.9467881,2339.0,False
+node,6797615992,Negro?,peak,-30.2472879,-68.9776289,2360.0,True
+node,6797616001,,peak,-28.5055541,-69.5930932,5065.0,False
+node,6797616010,,peak,-30.4589945,-70.1351732,5013.0,False
+node,6797616477,,peak,-32.2986269,-70.2249668,4400.0,False
+node,6797616478,,peak,-32.0274408,-70.2600092,4472.0,False
+node,6797616501,,peak,-29.5596909,-69.8957368,4450.0,False
+node,6797616592,,peak,-29.4646445,-69.7347818,5204.0,False
+node,6797616607,Punta Caliza,peak,-31.0899437,-69.0765621,3138.0,True
+node,6797616635,,peak,-31.9196156,-69.0634035,3287.0,False
+node,6797616646,,peak,-29.312977,-69.0723483,3275.0,False
+node,6797616685,,peak,-28.3776611,-69.5873477,5478.0,False
+node,6797617734,,peak,-29.5734332,-69.3349083,4130.0,False
+node,6797617782,,peak,-29.8722165,-69.8765613,5120.0,False
+node,6797617834,,peak,-31.2424597,-69.9804396,4818.0,False
+node,6797617841,Cerro San Maximiliano Kolbe,peak,-31.2745813,-70.1584418,4832.0,True
+node,6797617843,,peak,-31.5293624,-69.978219,4866.0,False
+node,6797617852,,peak,-32.5471847,-70.1246848,4843.0,False
+node,6797617864,,peak,-30.0662268,-69.8468143,4800.0,False
+node,6797617909,,peak,-31.4623655,-70.4765829,4226.0,False
+node,6797617953,Loma Redonda,peak,-31.9564954,-68.7214649,1335.0,True
+node,6797617979,El Tomillo,peak,-31.3674919,-68.8495422,1908.0,True
+node,6797617984,Viejo de San Roque,peak,-30.3112616,-68.7391136,1714.0,True
+node,6797617991,,peak,-30.5771483,-68.8200222,1672.0,False
+node,6797618002,,peak,-31.0000089,-68.7167288,1282.0,False
+node,6797618092,,peak,-30.0792853,-68.607476,1975.0,False
+node,6797618094,Breilla?,peak,-31.2481873,-67.3810361,1728.0,True
+node,6797618108,,peak,-30.5962701,-68.8795007,2286.0,False
+node,6797618164,,peak,-31.5877564,-69.9499279,4553.0,False
+node,6797618177,,peak,-31.615904,-70.3874066,4540.0,False
+node,6797618315,,peak,-29.5328149,-69.8923305,4394.0,False
+node,6797618345,,peak,-30.5012451,-68.971391,3632.0,False
+node,6797618423,,peak,-32.4481822,-69.7213485,4750.0,False
+node,6797618442,Loma de la Leona Dormida,peak,-30.4010923,-69.5007783,3400.0,True
+node,6797618459,Piedras Coloradas,peak,-31.1553475,-69.1146813,3491.0,True
+node,6797618480,,peak,-30.9307814,-67.4954522,2189.0,False
+node,6879342625,Monte Wood,peak,-49.2384151,-67.750065,285.0,True
+node,7563372340,Cerro Enmiria,peak,-41.1562411,-63.2554221,54.0,True
+node,7674881694,Cerro Codorniz,peak,-47.980615,-72.2807694,1767.0,True
+node,7883389803,Cerro Tolosa Oeste,peak,-32.7658594,-70.0415754,5317.0,True
+node,7902122832,Morro Promontorio,peak,-32.7141497,-69.9955702,4917.0,True
+node,8156200324,Punta Aguirre,peak,-37.3479591,-59.0617612,490.0,True
+node,8177697169,Cerro Cortapié,peak,-38.0384899,-62.6447692,,True
+node,8284465036,Cerro Mayo,peak,-50.3425033,-73.3225295,2380.0,True
+node,8434709513,,peak,-39.1242058,-70.7661423,,False
+node,8692006993,Cerro de la Fortuna,peak,-27.7628785,-68.3676173,4923.0,True
+node,8936850288,El Crestón,peak,-28.3796662,-65.9523109,2980.0,True
+node,9211230483,Cerro Alcazar,peak,-31.4765843,-69.3951691,,True
+node,9641604127,Cerro Beecker,peak,-40.7262629,-71.6123098,1781.0,True
+node,9678141306,,peak,-40.5455921,-71.7061092,1780.0,False
+node,9679873714,Cerro Santa Clara,peak,-37.8420585,-62.1283929,942.0,True
+node,10117596679,Cerro Hinojo Chico,peak,-37.7578458,-62.1497002,,True
+node,10129430438,,peak,-42.2243543,-71.957767,2001.0,False
+node,10300681536,Cerro Cono,peak,-42.6077554,-64.2172465,,True
+node,10307462241,Monte El Tropezón,peak,-41.7954004,-68.9983288,,True
+node,10536186604,Cerro de la Cruz,peak,-32.9509036,-69.0674213,,True
+node,11542266107,,peak,-37.9919203,-71.0508236,,False
+node,11551888862,Nevado Excelsior,peak,-33.0606423,-69.5593894,5773.0,True
+node,11680964867,,peak,-31.2161597,-70.4118706,3682.0,False
+node,11680985570,,peak,-31.3024524,-70.3072,3691.0,False
+node,12095356206,Cerro Furgón,peak,-37.7801158,-62.1569316,,True
+node,12207387880,Cerro Norte,peak,-32.8858302,-64.8639371,,True
+node,12249405123,Cerro Tortuga,peak,-38.9939639,-68.006161,,True
+node,12444466924,Cerro del 81,peak,-47.6983945,-65.9781752,147.0,True
+node,13071563306,Cerro de Piedra,peak,-32.8075364,-65.988386,,True
+node,13230089559,,peak,-31.2144943,-70.1912642,4498.0,False
+node,13755013929,Cerro Timoteo,peak,-38.1351399,-61.7638387,,True
+node,13908462683,,peak,-36.6131336,-70.471319,3960.0,False
+node,13908502423,,peak,-36.3832093,-70.5739725,3010.0,False
+node,13951184262,,peak,-34.5070031,-70.1344121,,False
+node,13954809167,,peak,-35.3161538,-70.4834855,,False
+node,13965975606,,peak,-35.1317909,-70.3444806,3206.0,False
+node,13991404571,,peak,-35.8891848,-70.3121621,2576.0,False
+node,13993538302,,peak,-44.7904853,-71.1784458,,False
+node,13993538321,,peak,-44.8915579,-71.5185929,1005.0,False
+node,14018978856,,peak,-41.5848707,-71.8634659,,False
+node,14133627789,,peak,-32.9744219,-69.9387177,5000.0,False
+node,14165325296,,peak,-25.4064536,-68.4165859,,False
+node,396965594,Sitio Divisadero,viewpoint,-42.8894548,-71.6052521,,True
+node,483150055,,viewpoint,-27.3730926,-55.1856336,,False
+node,631478374,,viewpoint,-47.6721728,-67.9915803,,False
+node,631866304,,viewpoint,-50.566837,-72.781048,,False
+node,635744815,,viewpoint,-49.2667714,-67.6991374,,False
+node,635744932,La Loberia,viewpoint,-49.1595797,-67.6193651,,True
+node,771455568,Mirador Río de las Vueltas,viewpoint,-49.3145563,-72.9013031,,True
+node,771455721,Mirador Fitz Roy,viewpoint,-49.300226,-72.9200669,,True
+node,1141013928,,viewpoint,-38.9892607,-61.2869419,,False
+node,1167270183,Mirador Cerro San Bernardo,viewpoint,-24.7900789,-65.3930688,,True
+node,1325892303,Mirador Pampa de los Bayos,viewpoint,-26.2243192,-68.2716223,,True
+node,1356814564,,viewpoint,-32.8650079,-69.7697153,,False
+node,1391816534,Mirador del Valle,viewpoint,-42.9912687,-71.4971208,,True
+node,1393186721,Arte Rupeste,viewpoint,-39.6321683,-70.9382077,,True
+node,1393194379,Playa,viewpoint,-38.8866155,-71.1755417,,True
+node,1395522895,Pasarela Rio Arrayanes,viewpoint,-42.7261372,-71.7416312,,True
+node,1402841177,Rio,viewpoint,-40.986647,-71.0935152,,True
+node,1405132382,Vista,viewpoint,-42.84007,-71.2623342,,True
+node,1768669654,,viewpoint,-41.1304899,-71.5911631,,False
+node,1829874888,Mirador,viewpoint,-49.3151888,-72.9671354,,True
+node,1899235890,El Faro,viewpoint,-31.6296505,-60.6777207,,True
+node,2011307303,,viewpoint,-32.4992402,-67.0121855,,False
+node,2012523070,,viewpoint,-27.1511637,-53.9119153,,False
+node,2012524750,,viewpoint,-27.1400466,-53.9537557,,False
+node,2087997437,Volcán morado,viewpoint,-36.3430673,-69.4720835,,True
+node,2129371645,,viewpoint,-31.3433112,-68.4777088,,False
+node,2137498890,Stupa,viewpoint,-41.1376718,-71.3810653,,True
+node,2156132417,Mirador Natural,viewpoint,-37.3424863,-59.132318,,True
+node,2165734082,La Banderita,viewpoint,-27.3307111,-65.9520577,,True
+node,2167604708,Abra Piedra de Molino,viewpoint,-25.1805335,-65.8580624,3457.0,True
+node,2259618363,Mirador de los Cóndores,viewpoint,-30.5202427,-66.3646826,,True
+node,2290712639,Cerro Catedral,viewpoint,-41.1801609,-71.4935695,2005.0,True
+node,2294708823,,viewpoint,-34.6012411,-68.6413545,,False
+node,2424506678,Mirador Río de las Vueltas,viewpoint,-49.3164521,-72.898579,,True
+node,2543452730,,viewpoint,-41.0753126,-71.4765718,,False
+node,2605324618,,viewpoint,-27.3827222,-55.8880248,,False
+node,2608171211,,viewpoint,-31.4764477,-68.653067,,False
+node,2608171212,,viewpoint,-31.4756336,-68.6518727,,False
+node,2619550590,El fraile,viewpoint,-25.9491542,-65.7437172,,True
+node,2619550591,El obelisco,viewpoint,-26.0059993,-65.7876248,,True
+node,2619550599,La Yesera,viewpoint,-25.9768855,-65.7541297,,True
+node,2624235562,,viewpoint,-41.1746995,-71.4743616,,False
+node,2624235570,,viewpoint,-41.1758273,-71.4637059,,False
+node,2687908637,Mirador de la Cruz,viewpoint,-22.793153,-65.217785,,True
+node,2711481076,Mirador del Sol,viewpoint,-32.362395,-64.9498509,,True
+node,2716092543,,viewpoint,-31.6675939,-64.6955565,,False
+node,2786726462,Cascada Escondida,viewpoint,-41.9312468,-71.5439664,,True
+node,2901920674,Salto del Agrio,viewpoint,-37.8101915,-70.9234822,,True
+node,2951199047,Mirador,viewpoint,-52.3751516,-68.4031998,,True
+node,2998904201,,viewpoint,-27.276377,-55.590789,,False
+node,3050653870,,viewpoint,-37.550156,-62.7755773,,False
+node,3188621285,Rocas Coloradas,viewpoint,-45.5751498,-67.2928057,,True
+node,3228709621,Cancha de Bochas,viewpoint,-30.117334,-67.9018447,,True
+node,3267416639,Cascada del Gigante,viewpoint,-37.8868436,-71.0710161,,True
+node,3267416640,Cascada del Basatto,viewpoint,-37.8818442,-71.0639315,,True
+node,3268863068,,viewpoint,-23.5775184,-65.3843017,,False
+node,3297738164,Mirador Lago Correntoso,viewpoint,-40.6111182,-71.677658,,True
+node,3384634792,,viewpoint,-41.0704634,-71.5796326,,False
+node,3391259236,Mirador del Arroyo Partido,viewpoint,-40.2421667,-71.3726539,,True
+node,3391298276,,viewpoint,-40.636644,-71.7016365,,False
+node,3396686121,Cima del Cerro Uritorco,viewpoint,-30.8452745,-64.477028,,True
+node,3401072416,,viewpoint,-50.3249686,-72.2717156,,False
+node,3407839823,,viewpoint,-40.7198674,-71.8906372,,False
+node,3440143474,Mirador El Rincón,viewpoint,-40.7126127,-71.9440887,,True
+node,3440273935,Confluencia RIo Neuquén - Rio Varvarco,viewpoint,-36.8464945,-70.6777499,,True
+node,3495167449,Punto Panorámico,viewpoint,-40.7748965,-71.610653,,True
+node,3631895165,,viewpoint,-22.0936735,-65.4696055,,False
+node,3655084783,Muelle Mihanovich,viewpoint,-40.8048382,-62.9851454,,True
+node,3732327079,,viewpoint,-27.3526376,-55.9352789,,False
+node,3939931132,Huge Parrot Colony on the Cliffs,viewpoint,-41.0628942,-62.8494215,,True
+node,3953544403,Mirador,viewpoint,-30.999028,-64.504724,,True
+node,4208422598,,viewpoint,-28.5401265,-57.168083,,False
+node,4232872323,,viewpoint,-28.5463557,-57.2038717,,False
+node,4261144618,Balcón Sur,viewpoint,-32.5033818,-67.01424,,True
+node,4261147622,Balcón Norte,viewpoint,-32.4987376,-67.0128274,,True
+node,4281426494,Parque Temático de la Cruz de Santa Ana,viewpoint,-27.4482371,-55.5751254,,True
+node,4281426530,,viewpoint,-27.4559463,-55.5701584,,False
+node,4351925997,Dique Luján,viewpoint,-32.3990374,-65.9134468,,True
+node,4361761438,Portezuelo,viewpoint,-40.62526,-71.344097,,True
+node,4362184885,Cascada,viewpoint,-40.7323765,-71.637752,,True
+node,4363597490,,viewpoint,-31.5713733,-68.7921635,,False
+node,4363930261,El Escorial,viewpoint,-31.1937372,-64.4753979,,True
+node,4364108611,Mirador,viewpoint,-31.4316081,-64.1713213,,True
+node,4374157249,Mirador Oeste Glaciar Castaño Overa y Ventisquero Negro,viewpoint,-41.1893233,-71.8218641,1570.0,True
+node,4379302667,,viewpoint,-39.68639,-71.490815,,False
+node,4410647003,Par 8,viewpoint,-39.1630739,-61.7479224,,True
+node,4420308190,SBM Caleta Olivia,viewpoint,-46.4256223,-67.4807616,,True
+node,4424415189,Plaza Posta Carretas,viewpoint,-34.4880143,-58.8603184,,True
+node,4431826470,Balcón al río (costanera de Lima),viewpoint,-33.9747497,-59.1757071,,True
+node,4452091782,,viewpoint,-41.975423,-71.468006,,False
+node,4458434190,Mirador de tres fronteras,viewpoint,-25.594528,-54.5909088,,True
+node,4471663391,,viewpoint,-25.6861806,-66.1499535,,False
+node,4538808583,,viewpoint,-27.3712389,-55.9534173,,False
+node,4559226187,,viewpoint,-50.3928332,-72.4019697,,False
+node,4581726380,Mirador del Paso del Córdoba,viewpoint,-40.5918148,-71.1456121,,True
+node,4592918998,Mirador Del Cóndor,viewpoint,-32.4043106,-64.9331925,,True
+node,4592984409,Mirador de la Laguna,viewpoint,-32.3197577,-64.9947017,,True
+node,4593778941,Mirador Las Vegas,viewpoint,-46.468156,-67.4998243,,True
+node,4598769070,Mirador del Lago,viewpoint,-31.4688907,-68.6508777,,True
+node,4684489589,Muelle Costanera Nueva,viewpoint,-26.1757558,-58.1568398,,True
+node,4775992100,,viewpoint,-36.5351071,-56.6887101,,False
+node,4783701622,,viewpoint,-47.742303,-65.9803192,,False
+node,4905099492,Mirador Serranía del Hornocal,viewpoint,-23.2006117,-65.1894418,,True
+node,5014964823,,viewpoint,-22.7562799,-65.242396,,False
+node,5015497821,,viewpoint,-23.4526026,-65.3634927,,False
+node,5029724090,,viewpoint,-27.0592904,-54.8274258,,False
+node,5061130721,Mirador San Sebastian,viewpoint,-54.8195463,-68.1684907,,True
+node,5067076021,Mirador Mingo Moreno,viewpoint,-54.8177814,-68.3194237,0.0,True
+node,5092532874,,viewpoint,-31.8747508,-58.2082275,,False
+node,5208922122,Cascada de Francesca,viewpoint,-49.0774708,-72.8984225,,True
+node,5230907021,Birds Observatory,viewpoint,-40.6569524,-71.4065571,,True
+node,5270519121,,viewpoint,-49.3289773,-72.9623693,,False
+node,5314982117,Vista del volcán Payún Liso,viewpoint,-36.4576746,-69.3797158,,True
+node,5338860622,,viewpoint,-54.8139145,-68.3068491,,False
+node,5345655360,Mirador de las Cuatro Provincias,viewpoint,-37.6679324,-67.7476859,,True
+node,5369124920,El Arboledo,viewpoint,-45.9468706,-67.5569915,,True
+node,5373223822,Rio Soto,viewpoint,-30.8518063,-64.9770504,,True
+node,5375597257,,viewpoint,-25.7000364,-54.4427437,,False
+node,5455169437,Mirador Del Águila,viewpoint,-32.3543705,-64.9528027,,True
+node,5464498920,,viewpoint,-47.1641999,-70.6521131,,False
+node,5546253583,,viewpoint,-30.1367579,-68.0274014,,False
+node,5571875522,,viewpoint,-23.5848298,-65.3963571,,False
+node,5574247770,,viewpoint,-31.4493307,-60.9192004,,False
+node,5603397614,Vista Panoramica,viewpoint,-38.9032822,-71.1851084,,True
+node,5603397743,Vista Panoramica,viewpoint,-38.8902019,-71.1538607,,True
+node,5685404740,,viewpoint,-40.6915169,-71.3893871,,False
+node,5691538359,,viewpoint,-41.1735959,-71.425116,1230.0,False
+node,5693602681,,viewpoint,-41.1491461,-71.3784999,1378.0,False
+node,5859372288,Punta canteras,viewpoint,-42.6401537,-64.9627683,,True
+node,5912831386,,viewpoint,-49.2979559,-72.9330867,,False
+node,5932527151,Mirador Río Percy,viewpoint,-42.9850501,-71.4881856,,True
+node,5981375852,,viewpoint,-36.9273644,-60.1426792,,False
+node,6040493184,,viewpoint,-54.8306267,-68.4898291,,False
+node,6104111992,Mirador Cerro Chenque,viewpoint,-45.8570435,-67.485044,,True
+node,6114430386,Mirador Lago Huemul,viewpoint,-40.9367418,-71.4034845,,True
+node,6214502484,,viewpoint,-30.7616853,-64.7532194,,False
+node,6250297096,Mirador Arrayán,viewpoint,-40.1672846,-71.3524958,,True
+node,6250345019,Mirador Lago Espejo,viewpoint,-40.6461047,-71.7029374,,True
+node,6257018805,Mirador,viewpoint,-49.2272342,-73.0150874,,True
+node,6272537892,,viewpoint,-41.1897749,-71.5026722,,False
+node,6329735477,Mirador,viewpoint,-26.9995742,-55.1780487,,True
+node,6336619471,Mirador El Artesano,viewpoint,-31.3753372,-65.4080111,,True
+node,6375021482,,viewpoint,-31.5229199,-68.8279041,,False
+node,6375021483,,viewpoint,-31.5238197,-68.8294853,,False
+node,6382318625,,viewpoint,-29.3421592,-67.7706081,,False
+node,6421842186,Cerro El Rosado,viewpoint,-23.4722084,-65.3123836,,True
+node,6495895885,Sendero Sanmartiniano,viewpoint,-33.6048813,-69.3856422,,True
+node,6581876018,Mirador,viewpoint,-24.3151104,-61.8110358,,True
+node,6592228456,Mirador Cerro Cumbrecita,viewpoint,-31.8934484,-64.7755649,,True
+node,6776095989,Mirador de la Reserva Natural Urbana,viewpoint,-38.878871,-71.1799273,,True
+node,6777661985,Mirador Antonio Arcos,viewpoint,-32.836577,-68.9342475,,True
+node,6818435922,La Cruz,viewpoint,-24.1650881,-65.3010593,,True
+node,6821057156,,viewpoint,-30.9239724,-64.4992918,,False
+node,7020442560,Mirador de Uspallata,viewpoint,-32.5952437,-69.3296428,,True
+node,7022418300,Mirador Aconcagua,viewpoint,-32.8227378,-69.9404523,,True
+node,7052864286,Mirador Serranía de Hornocal,viewpoint,-23.2018187,-65.1880957,,True
+node,7074439357,3° descanso Hondonada del buey,viewpoint,-30.858468,-64.4894126,1317.0,True
+node,7092023092,Mirador,viewpoint,-54.6914442,-67.8327138,,True
+node,7143654307,Cerro Jeujepén,viewpoint,-54.5847018,-67.2551785,,True
+node,7177829485,Vista al Río,viewpoint,-39.9542019,-71.0664158,,True
+node,7191032045,Mirador,viewpoint,-41.8342297,-71.5966061,,True
+node,7196504685,Cuesta del Obispo,viewpoint,-25.1710863,-65.8532936,,True
+node,7231309585,,viewpoint,-23.6807052,-65.6293689,,False
+node,7411447614,,viewpoint,-49.0763967,-72.8986061,,False
+node,7418254678,,viewpoint,-38.091127,-57.5423318,,False
+node,7758322182,,viewpoint,-38.0538465,-57.536104,,False
+node,7813925612,,viewpoint,-27.6048369,-55.4939151,,False
+node,7925491487,,viewpoint,-54.8175736,-68.3163994,,False
+node,7935960169,Cuesta De Los Cardones,viewpoint,-26.6343312,-65.834917,,True
+node,7973643881,,viewpoint,-37.3402494,-59.1381054,,False
+node,8110187233,,viewpoint,-54.8100004,-68.3214073,,False
+node,8390719919,Salida Cañón Pedernal,viewpoint,-32.1040717,-68.7622469,,True
+node,8525573740,,viewpoint,-41.1572756,-63.2346398,,False
+node,8813065929,,viewpoint,-31.2603019,-57.9678062,,False
+node,9064469666,,viewpoint,-30.9772397,-64.4821524,,False
+node,9064469689,,viewpoint,-30.9767497,-64.4812036,,False
+node,9082791496,,viewpoint,-24.4367682,-66.2390158,,False
+node,9405029647,Deck Panorámico,viewpoint,-38.0364872,-62.470877,,True
+node,9528520188,Mirador Piletones del Manso,viewpoint,-41.5675381,-71.5162067,,True
+node,9626892584,,viewpoint,-25.0144788,-58.1290773,,False
+node,9629749487,,viewpoint,-32.1220367,-60.632158,,False
+node,9905685669,Mirador de la Confluencia,viewpoint,-38.9877259,-68.0072287,,True
+node,10031748273,Mirador al Cerro Tres Picos (Cuatro Picos),viewpoint,-38.20358,-61.7743707,,True
+node,10117649783,Deck,viewpoint,-37.7899167,-62.1364018,,True
+node,10125169644,Observatorio Incendios,viewpoint,-31.8092132,-64.4281574,,True
+node,10206392536,Mirador Interpretativo 1,viewpoint,-38.936499,-68.0584493,,True
+node,10206489408,Mirador Observatorio,viewpoint,-38.9358044,-68.0630269,,True
+node,10255379084,,viewpoint,-30.3687653,-69.6615252,,False
+node,10309654545,,viewpoint,-40.8486089,-68.0926433,,False
+node,10557567526,,viewpoint,-27.3707451,-55.6502049,,False
+node,10585297806,,viewpoint,-41.1325231,-71.3074341,,False
+node,10597291508,Río Hua-Hum,viewpoint,-40.1193866,-71.6621056,,True
+node,10608546571,Mirador Río Limay,viewpoint,-38.9803924,-68.0146031,,True
+node,10624000505,,viewpoint,-33.2663316,-69.1239217,,False
+node,10689103048,Los Barrancos Mirador,viewpoint,-32.1624295,-65.0334951,,True
+node,10693850345,,viewpoint,-40.9016521,-71.4889596,,False
+node,10694155121,,viewpoint,-41.1338718,-71.2888249,,False
+node,10718009806,,viewpoint,-41.1610634,-71.6305753,,False
+node,10726667273,,viewpoint,-31.184946,-60.1434059,,False
+node,10844348100,,viewpoint,-45.0114538,-65.7782648,,False
+node,10844480683,,viewpoint,-47.8298329,-72.2210734,,False
+node,10875285807,,viewpoint,-50.3384395,-72.2832675,,False
+node,10983108609,Mirador de Yavi,viewpoint,-22.1259088,-65.4695751,3516.0,True
+node,11025888591,Mirador Pinocho,viewpoint,-38.5736584,-58.6868384,,True
+node,11025888596,,viewpoint,-38.5599359,-58.6257328,,False
+node,11042431305,,viewpoint,-38.9125714,-71.1956456,,False
+node,11098402605,Valle de Marte,viewpoint,-22.1515028,-66.4046949,,True
+node,11112186705,Mirador  jotes,viewpoint,-27.2792471,-55.5796753,,True
+node,11128360105,,viewpoint,-23.6327107,-64.942554,,False
+node,11285059069,,viewpoint,-43.1692184,-71.5066676,,False
+node,11299046691,Mirador,viewpoint,-23.0131513,-66.3680327,,True
+node,11353199185,,viewpoint,-45.944917,-67.6662809,,False
+node,11389965770,,viewpoint,-49.2812451,-72.9867821,,False
+node,11472867505,,viewpoint,-48.7541746,-70.2108604,,False
+node,11498417017,Mirador Río Frías,viewpoint,-41.0245454,-71.8135264,,True
+node,11523808687,Mirador Cerro Viejo,viewpoint,-41.1331504,-71.3239667,,True
+node,11578990630,Mirador,viewpoint,-42.8770983,-71.3536467,,True
+node,11578990632,Mirador de los Cerros,viewpoint,-42.8709222,-71.3544288,,True
+node,11585270231,,viewpoint,-42.9436461,-71.2375133,,False
+node,11585348686,,viewpoint,-47.1562793,-70.6576837,,False
+node,11637745869,Paso de La Oveja,viewpoint,-54.7741393,-68.437995,,True
+node,11663723670,Mirador Rio Manso,viewpoint,-41.5906007,-71.5193789,,True
+node,11697133610,,viewpoint,-42.079918,-63.7567788,,False
+node,11704620469,,viewpoint,-47.7509829,-72.5039977,,False
+node,11753710369,Cerro Carapunco,viewpoint,-26.7887379,-65.7986173,,True
+node,11771121970,,viewpoint,-27.2848175,-55.5911038,,False
+node,11786603369,Glaciar Beban,viewpoint,-54.6554315,-68.171824,,True
+node,11839316380,,viewpoint,-40.8298269,-68.10616,,False
+node,11881933698,,viewpoint,-43.1084518,-71.3450137,,False
+node,11997958249,,viewpoint,-33.0762798,-60.5571824,,False
+node,12062201402,Mirador,viewpoint,-31.7990025,-69.3657768,,True
+node,12077350570,,viewpoint,-31.3717569,-64.5137898,,False
+node,12086235565,,viewpoint,-43.7188429,-67.2810944,,False
+node,12140881366,Mirador Del Barrio Ciudadela,viewpoint,-45.7988195,-67.4908208,,True
+node,12147806682,,viewpoint,-49.235055,-72.9697969,,False
+node,12255076310,,viewpoint,-40.8112765,-62.9697464,,False
+node,12308341511,Mirador Sur,viewpoint,-30.8544845,-64.5486785,,True
+node,12337570241,,viewpoint,-40.6552559,-71.3945082,,False
+node,12375038999,,viewpoint,-31.3818277,-64.5429241,,False
+node,12400401897,,viewpoint,-41.1325784,-71.3109358,,False
+node,12408904612,Mirador Cristal,viewpoint,-50.5488228,-72.7982918,,True
+node,12426926034,,viewpoint,-47.7560063,-65.9029291,,False
+node,12431022636,,viewpoint,-49.3179984,-67.72157,,False
+node,12476486690,,viewpoint,-41.1446172,-71.3756254,,False
+node,12492483458,Mirador La Península,viewpoint,-41.0231794,-71.8128084,,True
+node,12530549359,Mirador Los Radales,viewpoint,-40.1520021,-71.310673,,True
+node,12593929615,,viewpoint,-27.1389629,-53.9247042,,False
+node,12638494497,,viewpoint,-41.1324747,-71.311824,,False
+node,12646468701,El Submarino,viewpoint,-30.0852993,-67.9235806,,True
+node,12803379703,,viewpoint,-23.5939572,-65.374919,,False
+node,12812595031,,viewpoint,-40.1161194,-71.3336613,,False
+node,12842733393,Vista del Tajamar,viewpoint,-31.6574216,-64.4349567,,True
+node,12842810752,Mirador Usina,viewpoint,-32.1778117,-64.4208359,,True
+node,12865886612,Mirador de la Curva,viewpoint,-28.4585308,-65.808559,,True
+node,12993340477,Punto Panorámico Monumento a la Bandera,viewpoint,-32.9475882,-60.628446,,True
+node,13002740559,,viewpoint,-46.729977,-71.7238199,,False
+node,13014398414,,viewpoint,-32.6372365,-64.950032,,False
+node,13021802111,Mirador Carlos Pellegrini Laguna Iberá,viewpoint,-28.5291917,-57.1576216,,True
+node,13069763026,,viewpoint,-33.1857256,-65.9325911,,False
+node,13069763034,,viewpoint,-33.1795294,-65.9126235,,False
+node,13078263801,Mirador Quebrada de Horno Hualco,viewpoint,-23.8576019,-65.469438,,True
+node,13096987101,Sendero La otra cara del perro,viewpoint,-45.9276026,-67.6933766,,True
+node,13101167946,,viewpoint,-26.0897703,-67.044526,,False
+node,13103762009,,viewpoint,-38.791598,-71.0597265,,False
+node,13107091521,,viewpoint,-28.2643012,-68.8350478,,False
+node,13114910001,,viewpoint,-24.7157571,-64.6501365,,False
+node,13114910101,Ao San Roberto,viewpoint,-24.7157567,-64.6501367,,True
+node,13153803067,Mirador El Cóndor,viewpoint,-32.5680374,-65.7771412,,True
+node,13178536069,,viewpoint,-47.750666,-65.9328676,,False
+node,13189869855,Mirador 1o,viewpoint,-31.3353544,-69.4159421,,True
+node,13189870108,Mirador 5V,viewpoint,-31.3299567,-69.4166462,,True
+node,13228104636,Mirador Laguna Colorada,viewpoint,-26.0324851,-67.4475749,,True
+node,13231902601,,viewpoint,-23.374956,-65.361318,,False
+node,13429178607,,viewpoint,-36.6253491,-64.3098868,,False
+node,13464572209,,viewpoint,-41.5254749,-71.4642774,,False
+node,13539121912,,viewpoint,-29.7822526,-67.8471332,,False
+node,13539128004,Grand Mirador,viewpoint,-29.7683595,-67.8323074,,True
+node,13574137548,,viewpoint,-34.602394,-58.3472674,,False
+node,13574137550,,viewpoint,-34.6033522,-58.3468882,,False
+node,13574137553,,viewpoint,-34.6129388,-58.3403944,,False
+node,13597268268,Mirador de los Chinchillones,viewpoint,-39.2155435,-70.9259745,,True
+node,13606718556,Mirador Cuatro Encantos,viewpoint,-40.3888249,-71.2537676,,True
+node,13692010001,Mirador Wallner,viewpoint,-54.8112256,-68.3598105,,True
+node,13724453073,Mirador Del Lago,viewpoint,-42.8640874,-71.6350951,,True
+node,13763961105,Cuarta Bajada,viewpoint,-40.8155911,-65.0943294,,True
+node,13763968301,El Sótano,viewpoint,-40.9061159,-65.1488595,,True
+node,13763968801,Quinta Bajada,viewpoint,-40.8164214,-65.0956975,,True
+node,13874631401,,viewpoint,-28.0161168,-58.0314933,,False
+node,13906037433,Mirador K1,viewpoint,-41.1451558,-71.3478503,,True
+node,13962317972,Mirador Lago Roca,viewpoint,-50.5581963,-72.8659683,,True
+node,13962317974,Mirador Lago Roca,viewpoint,-50.5113883,-72.7649108,,True
+node,14079168461,,viewpoint,-38.573113,-58.6833498,,False
+node,14087845050,Mirador Gutiérrez,viewpoint,-41.1517245,-71.3543799,,True
+node,14087845051,Mirador Nahuel Huapi,viewpoint,-41.1484844,-71.3542134,,True
+way,447732701,,viewpoint,-34.5806906,-58.4453769,,False
+way,734941304,,viewpoint,-49.2380929,-67.7495004,,False
+way,1301652433,,viewpoint,-39.1338394,-68.4096359,,False
+way,1332945651,,viewpoint,-31.0003645,-57.9123642,,False
+way,1394072229,,viewpoint,-34.6807838,-58.4487441,,False
+node,300792182,Salto Tabay,waterfall,-26.9993903,-55.1778105,,True
+node,300956622,Salto Encantado,waterfall,-27.0584774,-54.8280556,,True
+node,307416252,Salto Mbiguá,waterfall,-25.6879205,-54.4449122,,True
+node,461635409,Salto Krysiuk,waterfall,-27.5694413,-55.1615384,,True
+node,461642214,Salto Berrondo,waterfall,-27.4799373,-55.1963773,,True
+node,887628098,Catarata Corbata Blanco,waterfall,-42.0516975,-71.488622,,True
+node,1019013526,Cascada grande,waterfall,-31.890765,-64.779646,,True
+node,1114891514,,waterfall,-26.5069258,-54.4440893,,False
+node,1116303714,Salto Aguaray Miní,waterfall,-26.2035536,-54.5923044,,True
+node,1126195605,,waterfall,-27.5535661,-54.8825177,,False
+node,1126411820,,waterfall,-26.6604119,-54.7598233,,False
+node,1128257298,,waterfall,-27.011553,-55.1807737,,False
+node,1128258080,,waterfall,-27.0298327,-55.1722176,,False
+node,1161777468,,waterfall,-27.6206234,-54.9813019,,False
+node,1188162526,,waterfall,-27.0157319,-54.4143258,,False
+node,1188163145,Salto Tarumá,waterfall,-27.0154006,-54.4149106,,True
+node,1242306954,,waterfall,-38.1394678,-61.7786765,,False
+node,1242385215,,waterfall,-38.0903904,-61.9333344,,False
+node,1307355130,Cascada del Abra,waterfall,-38.0758854,-61.9977919,,True
+node,1346256319,Cascada Irigoyen,waterfall,-42.8597223,-71.6018751,,True
+node,1346256709,Cascada de los Tambores,waterfall,-43.1235508,-71.6179858,,True
+node,1364259597,Salto Yasy,waterfall,-25.8286492,-54.5799808,,True
+node,1388302367,,waterfall,-27.1249396,-54.4881031,,False
+node,1388303263,Salto Golondrina,waterfall,-27.1309837,-54.4887337,,True
+node,1477572749,Salto Fortalecita,waterfall,-26.7655383,-54.1814846,,True
+node,1485669396,Salto Anta,waterfall,-26.5577327,-54.4370543,,True
+node,1541751306,Cascada,waterfall,-28.1830562,-65.8185856,,True
+node,1620159883,Cascada de Alemanía,waterfall,-25.6686683,-65.6000189,,True
+node,1676739655,,waterfall,-26.2678387,-53.6421462,,False
+node,1726256442,Cascada del Saladillo,waterfall,-33.012973,-60.6342611,,True
+node,1834214048,,waterfall,-27.4201792,-55.4272583,,False
+node,1834214242,,waterfall,-27.4274445,-55.4311351,,False
+node,2013014645,,waterfall,-32.4206277,-65.7411382,,False
+node,2025762544,La Petisa,waterfall,-43.1904023,-71.472267,,True
+node,2065566660,,waterfall,-38.5037494,-70.4372764,,False
+node,2081406832,,waterfall,-27.3288414,-55.2392816,,False
+node,2083159758,,waterfall,-40.4933265,-71.2117168,,False
+node,2101732607,Cascada del Toro muerto,waterfall,-31.6443572,-64.9907435,,True
+node,2292015248,,waterfall,-40.1515519,-71.2572973,,False
+node,2294256680,Cascada Rio de Los Reartes,waterfall,-31.9582831,-64.8433212,,True
+node,2627531544,Saltos del Cuñá Pirú,waterfall,-27.038485,-55.0363076,,True
+node,2627531547,Salto Piedras Blancas,waterfall,-27.1146917,-54.8109683,,True
+node,2628891625,Inacayal,waterfall,-40.7326296,-71.6375397,,True
+node,2633722805,,waterfall,-40.4874249,-71.6644725,,False
+node,2889039108,,waterfall,-31.6700313,-64.6988089,,False
+node,3196041226,,waterfall,-49.2089546,-73.0710386,,False
+node,3258193103,Salto Tacuruzú,waterfall,-26.8114082,-55.0635294,,True
+node,3346422608,Cascada Mulpunleufu,waterfall,-38.7506493,-60.5624221,,True
+node,3417768620,,waterfall,-43.7957294,-71.6243526,,False
+node,3420359110,,waterfall,-41.1880859,-71.5199987,,False
+node,3668990000,Cascada de la Guinda,waterfall,-38.128554,-61.9709943,,True
+node,3847985496,Cascada Blanca,waterfall,-41.0084815,-71.7039842,,True
+node,3867814342,,waterfall,-31.6144969,-64.6735469,,False
+node,3894507002,,waterfall,-37.5034088,-58.6269655,,False
+node,3894510186,,waterfall,-37.4992223,-58.6134266,,False
+node,3924410137,,waterfall,-32.060996,-65.0020427,,False
+node,3927851369,Cascadas Paraíso Champaquí,waterfall,-31.9696381,-64.9841822,,True
+node,3933666239,Cascada El Pantanillo,waterfall,-29.002329,-65.5626604,,True
+node,3950322640,,waterfall,-26.8133233,-53.7101724,,False
+node,3969377693,,waterfall,-34.2965221,-69.7112545,,False
+node,3969681056,,waterfall,-34.3543139,-69.7419997,,False
+node,4005050541,,waterfall,-34.5757508,-58.4100474,,False
+node,4018755838,,waterfall,-50.8649588,-72.2655048,,False
+node,4325872959,,waterfall,-39.8714087,-71.5667109,,False
+node,4357542047,La cascada,waterfall,-37.3638354,-59.0984536,,True
+node,4371151400,,waterfall,-40.8262638,-71.1704426,,False
+node,4409547131,Diana,waterfall,-40.7445862,-71.8610134,,True
+node,4509157619,Cascada Frey,waterfall,-41.1526872,-71.7072217,,True
+node,4536225033,Los Cántaros,waterfall,-41.0127727,-71.8223314,,True
+node,4540008819,Cascada Victoria,waterfall,-41.1525277,-71.6782747,,True
+node,4540009728,,waterfall,-41.1915913,-71.6730712,,False
+node,4571014293,Salto Araña,waterfall,-27.0695925,-54.8413653,,True
+node,4571681749,Salto El Chorro,waterfall,-27.028311,-54.4766773,,True
+node,4578134991,Garganta del Diablo,waterfall,-41.1873635,-71.8395285,,True
+node,4578504514,,waterfall,-41.1833516,-71.8141029,,False
+node,4578504612,,waterfall,-41.1862483,-71.8193091,,False
+node,4684370857,,waterfall,-31.504901,-68.7866465,,False
+node,4703600436,,waterfall,-41.3943312,-71.7033629,,False
+node,4886410687,Cascada de los lobitos,waterfall,-24.6943631,-64.6125845,,True
+node,4937762811,Cascada de la Usina Vieja,waterfall,-37.8573884,-71.0577881,,True
+node,4995594976,Salto Guabiroba,waterfall,-26.3872074,-54.6844775,,True
+node,4995594983,Salto Küppers,waterfall,-26.3865113,-54.6828677,,True
+node,5010449081,,waterfall,-26.0433785,-53.7602713,,False
+node,5029724045,Salto del Picaflor,waterfall,-27.0619812,-54.8415152,,True
+node,5029724108,Salto Escondido,waterfall,-27.0623643,-54.8292135,,True
+node,5029742051,Salto La Olla,waterfall,-27.0624821,-54.8412592,,True
+node,5069208939,Cascada Arroyo Grande,waterfall,-40.1855359,-71.4538924,,True
+node,5131995603,,waterfall,-33.0740861,-63.2099423,,False
+node,5156146021,casa corriente,waterfall,-29.4043612,-58.6780105,,True
+node,5226605623,El Saltillo,waterfall,-39.7108751,-71.5354,,True
+node,5290265221,,waterfall,-49.093184,-72.8990433,,False
+node,5324490718,,waterfall,-31.9020387,-64.9372004,,False
+node,5325829024,Salto Escondido,waterfall,-25.689975,-54.4418214,,True
+node,5369121362,,waterfall,-31.9782646,-64.9638009,,False
+node,5401368622,Salto Mbocay,waterfall,-25.6466859,-54.5796044,,True
+node,5436195940,,waterfall,-42.8603117,-71.5994483,,False
+node,5464499298,La Larga,waterfall,-43.1889273,-71.4743451,,True
+node,5497340002,,waterfall,-34.9847834,-70.2758611,,False
+node,5503796678,,waterfall,-54.6764318,-68.3324745,,False
+node,5532216552,Salto Bella Vista,waterfall,-26.9421131,-54.3827323,,True
+node,5581398244,Salto de la Moneda,waterfall,-33.2014733,-66.2307983,,True
+node,5697465721,Cascada del Rio Noque,waterfall,-26.7866121,-65.3877933,,True
+node,5781894943,Salto Cuñaporá,waterfall,-27.0398104,-54.8487262,,True
+node,5781924573,Salto Reunión,waterfall,-25.5653235,-54.1831326,,True
+node,5781936053,Salto del Olvido,waterfall,-27.1642203,-55.0068182,,True
+node,5794987054,Cascada en Nativa,waterfall,-25.6420596,-54.5879142,,True
+node,5907008710,Cascada la Corzuela,waterfall,-26.817742,-65.3922223,,True
+node,5941730589,Cascada de las Pataguas,waterfall,-42.1459159,-71.4224189,,True
+node,5944831006,,waterfall,-27.9938971,-55.7769041,,False
+node,6004706584,Salto Mbiguá,waterfall,-26.6313421,-54.0893484,,True
+node,6017574359,Salto Samambaia II,waterfall,-27.5793112,-55.1426594,,True
+node,6029777961,Salto Polaca,waterfall,-27.5071676,-55.0708258,,True
+node,6104757016,,waterfall,-31.4730988,-64.5948807,,False
+node,6138158465,,waterfall,-29.2456625,-67.8167874,,False
+node,6143682922,,waterfall,-28.8301969,-67.7823646,,False
+node,6148773578,,waterfall,-48.9958524,-72.9343786,,False
+node,6175375571,Salto Siete Pisos,waterfall,-26.9858478,-54.5036948,,True
+node,6175425998,Salto Orquídeas,waterfall,-26.9949189,-54.6875244,,True
+node,6175540057,Salto Las Mujeres,waterfall,-27.7278382,-55.1692536,,True
+node,6177281447,Salto Kinas,waterfall,-27.5924055,-55.233484,,True
+node,6179310886,Cascada de Cárdenas,waterfall,-42.0419428,-71.6143732,,True
+node,6194828605,Salto Bella Vista,waterfall,-25.8818852,-54.5699868,,True
+node,6252415275,,waterfall,-27.6651274,-55.1920625,,False
+node,6292157142,Salto Salamanca,waterfall,-26.6129609,-54.7799269,,True
+node,6333115592,,waterfall,-26.716052,-54.758082,,False
+node,6333133564,Salto Arnold,waterfall,-27.5589649,-54.9774679,,True
+node,6369233404,,waterfall,-49.2084667,-73.0708355,,False
+node,6414342609,,waterfall,-27.404936,-54.9993499,,False
+node,6467191085,Nahuel Pan,waterfall,-41.9085633,-71.4908483,,True
+node,6557189823,Salto Schwarzenberg,waterfall,-26.3612302,-54.5888731,,True
+node,6564636282,,waterfall,-26.5082372,-54.6222343,,False
+node,6601496987,,waterfall,-25.3774341,-66.4481458,,False
+node,6749645419,,waterfall,-27.1298417,-54.4871408,,False
+node,6851797185,Las Tres Cascadas,waterfall,-30.9390106,-64.3196973,,True
+node,6980237716,Salto del Pavón,waterfall,-33.2247885,-60.4220795,,True
+node,7041675945,Cascada La Mesada,waterfall,-31.3346216,-64.3548228,,True
+node,7041680571,Cascada Pozo Verde,waterfall,-31.313549,-64.3697271,,True
+node,7045530941,,waterfall,-31.6457492,-64.4513187,,False
+node,7050343138,Salto Yacutinga,waterfall,-27.37917,-55.6435418,,True
+node,7057106196,Salto Zacarias 1,waterfall,-27.5899433,-55.0268,,True
+node,7140200586,Quebrada del Calderon,waterfall,-31.3554653,-64.7528512,,True
+node,7162553419,,waterfall,-47.8081648,-66.1819947,,False
+node,7272474907,,waterfall,-38.6012065,-60.6112191,,False
+node,7372180481,,waterfall,-51.187397,-72.0528804,,False
+node,8040036085,,waterfall,-49.0274939,-72.8471311,,False
+node,8040036086,,waterfall,-49.0315776,-72.850812,,False
+node,8043293731,,waterfall,-32.9572212,-65.7436359,,False
+node,8127641545,Cascada Abanico,waterfall,-31.8660923,-64.7669565,,True
+node,8205616686,,waterfall,-31.4721073,-64.5951497,,False
+node,8229445417,Caida Arroyo Chapadmalal,waterfall,-38.2006811,-57.7025671,,True
+node,8251645752,Cascada Nahiara,waterfall,-54.8229268,-68.385995,,True
+node,8390729717,Cascada de Astica,waterfall,-30.9281621,-67.3504238,,True
+node,8398596528,Cascada de las Pataguas,waterfall,-42.142324,-71.4268766,,True
+node,8433439117,,waterfall,-30.8443337,-64.5479629,,False
+node,8450698973,Cascada Quebrada del Alfarcito,waterfall,-23.5947713,-65.3698005,,True
+node,8716048647,,waterfall,-22.2320429,-66.5260342,,False
+node,9055024817,Quebrada del Toro,waterfall,-23.6172137,-64.9396319,,True
+node,9083010889,,waterfall,-30.9830835,-64.4614037,,False
+node,9338528766,Cascada del Río Piedras Grandes,waterfall,-31.0913117,-64.5317275,,True
+node,9341011997,Laguna de las Uvas,waterfall,-33.1802262,-66.2112947,,True
+node,9451552745,,waterfall,-27.3894246,-55.3651852,,False
+node,9462015028,Cascada Regimiento,waterfall,-40.1325717,-71.3321736,,True
+node,9486289443,,waterfall,-40.4934044,-71.2116579,,False
+node,9528585373,Cascada Escondida,waterfall,-41.9318086,-71.5440949,,True
+node,9573913055,,waterfall,-30.8107939,-64.4236214,,False
+node,9599871571,,waterfall,-31.3064453,-64.5882808,,False
+node,9603920620,,waterfall,-31.9881189,-64.8484349,,False
+node,9911706318,,waterfall,-32.347271,-64.9450664,,False
+node,9911716517,Salto del Tabaquillo,waterfall,-32.3460577,-64.944317,,True
+node,10099190883,Salto Urugua-i,waterfall,-25.8744062,-54.5676439,,True
+node,10153682159,,waterfall,-37.5038096,-61.8504412,,False
+node,10212613955,Porá mini,waterfall,-26.9940432,-54.6337611,,True
+node,10212613961,Salto Ytororó,waterfall,-26.9984109,-54.6253353,,True
+node,10212613964,Salto Pirú,waterfall,-26.9965216,-54.6239333,,True
+node,10572271109,Tres Cascadas de San Miguel de los Rios,waterfall,-32.0442626,-64.7574612,,True
+node,10605341060,Salto de Mendez,waterfall,-32.8206877,-58.4923352,,True
+node,10679210302,Salto Sulma III,waterfall,-26.9595382,-54.5100557,,True
+node,10690877745,Salto Sulma I,waterfall,-26.9582858,-54.5086952,,True
+node,10690877746,Salto Sulma IV,waterfall,-26.9598162,-54.5105302,,True
+node,10692863621,,waterfall,-31.9039018,-64.9678018,,False
+node,10860903098,,waterfall,-38.919329,-68.2117246,,False
+node,10860931211,,waterfall,-38.9192244,-68.2107619,,False
+node,10933451703,,waterfall,-45.8228085,-67.4963929,,False
+node,10969913356,Salto La Cachuerita,waterfall,-27.8556485,-55.8581407,,True
+node,10972408169,,waterfall,-39.2458752,-68.7948151,,False
+node,10972408231,,waterfall,-39.2458297,-68.7948973,,False
+node,10977926715,,waterfall,-39.2461478,-68.7991907,,False
+node,10977926722,,waterfall,-39.2463304,-68.7989408,,False
+node,10977927313,,waterfall,-39.2471272,-68.8069688,,False
+node,10977927329,,waterfall,-39.2480284,-68.8070081,,False
+node,10977928215,,waterfall,-39.2592541,-68.7938072,,False
+node,10979493596,,waterfall,-39.2425252,-68.837948,,False
+node,10979493652,,waterfall,-39.2447519,-68.8336621,,False
+node,10988269860,,waterfall,-39.264475,-68.8481353,,False
+node,10988269863,,waterfall,-39.2648537,-68.8482553,,False
+node,10988269867,,waterfall,-39.2652603,-68.8484795,,False
+node,10988269965,,waterfall,-39.2625405,-68.8491319,,False
+node,10991123847,,waterfall,-39.2937494,-68.8768717,,False
+node,10991123873,,waterfall,-39.2964604,-68.8772538,,False
+node,10991188188,,waterfall,-39.31247,-68.8802294,,False
+node,10991188479,,waterfall,-39.2969219,-68.8925301,,False
+node,10995578488,,waterfall,-39.2963161,-68.8931286,,False
+node,11006013656,,waterfall,-39.3920204,-69.4041882,,False
+node,11063977505,Cascada Escondida,waterfall,-31.5605816,-64.7099899,,True
+node,11165300482,La Piedra,waterfall,-30.9576925,-64.2909189,,True
+node,11293224725,Saltos de Malleo,waterfall,-39.7688617,-71.0677183,,True
+node,11293251569,Saltos de Malleo,waterfall,-39.7687282,-71.0677752,,True
+node,11372311060,,waterfall,-36.8781295,-71.1274678,,False
+node,11397973810,,waterfall,-47.9145084,-72.3556942,,False
+node,11492231910,,waterfall,-49.9705558,-73.2104874,,False
+node,11492231931,,waterfall,-49.9737506,-73.2127512,,False
+node,11492231932,,waterfall,-49.9739335,-73.2131642,,False
+node,11492231933,,waterfall,-49.9740404,-73.2134539,,False
+node,11787425269,,waterfall,-44.2049409,-71.3617587,,False
+node,11800715854,,waterfall,-44.024116,-70.7562974,,False
+node,11817383069,,waterfall,-49.2960895,-72.9098513,,False
+node,11839648561,,waterfall,-43.4397004,-71.5355659,,False
+node,11997596908,,waterfall,-42.9636876,-70.6517298,,False
+node,11999682323,,waterfall,-42.0622276,-70.4703507,,False
+node,12001476269,El Remate,waterfall,-26.6392922,-65.857528,,True
+node,12101411915,Cascada Mulpunleufú,waterfall,-38.7985695,-60.5471433,,True
+node,12102784819,,waterfall,-41.1384909,-71.575461,,False
+node,12102785121,,waterfall,-41.1808867,-71.556754,,False
+node,12173724379,Cascada Chica,waterfall,-38.163569,-61.933815,,True
+node,12488718323,,waterfall,-26.3524898,-54.6539894,,False
+node,12488718324,,waterfall,-26.3517722,-54.6528558,,False
+node,12498173846,Salto Guaviroba,waterfall,-27.6405176,-55.2279786,,True
+node,12498196461,Salto Colibrí,waterfall,-27.6335584,-55.2419653,,True
+node,12498236888,Salto Maksymiuk,waterfall,-27.6153608,-55.1224243,,True
+node,12539129481,Salto Ostratiuk,waterfall,-27.5811145,-55.0323018,,True
+node,12704853831,,waterfall,-42.1175925,-71.6755466,,False
+node,12720698901,Cascada de Guevara,waterfall,-31.3193121,-64.4038554,,True
+node,12790065674,Cascada de Bahia Toro,waterfall,-50.2933449,-73.2757751,,True
+node,12801585073,,waterfall,-26.8047669,-65.7220482,,False
+node,12849089670,Salto de la Salamanca,waterfall,-33.2786859,-66.2324321,,True
+node,12865850374,,waterfall,-28.4653398,-65.8318395,,False
+node,13336534549,Cascada,waterfall,-28.1463199,-65.9364358,,True
+node,13672759861,,waterfall,-26.9523092,-54.384437,,False
+node,13960653292,Cascada de la Mujer,waterfall,-31.595239,-64.6408919,,True
+node,13960949214,Cascada Piedra del Molino,waterfall,-31.9943827,-64.9548474,,True
+node,13975385152,,waterfall,-32.7112904,-65.8909911,,False
+node,14011144426,,waterfall,-27.3101963,-54.2165481,,False
+node,14053589398,Salto Guillermo,waterfall,-27.0687235,-54.8457541,,True
+node,14072734391,,waterfall,-32.4392033,-65.4043391,,False
+node,14099783862,,waterfall,-27.2915618,-55.5703309,,False
+node,14099783880,,waterfall,-27.2902961,-55.5704538,,False
+node,14116782039,Cascada Pequeña,waterfall,-39.2030263,-65.9098566,,True
+node,14158573135,,waterfall,-31.4021476,-64.6672077,,False
+node,14209910084,,waterfall,-34.0097818,-65.0287198,,False
+way,27995340,,waterfall,-25.6898183,-54.4416545,,False
+way,27995836,Salto San Martín,waterfall,-25.6879453,-54.4439534,,True
+way,27995884,,waterfall,-25.6928231,-54.4390203,,False
+way,100495132,,waterfall,-27.6003866,-54.9607417,,False
+way,189606251,,waterfall,-25.5976402,-54.2420429,,False
+way,189606277,,waterfall,-25.5577494,-54.2932723,,False
+way,438732887,,waterfall,-25.6865292,-54.4457606,,False
+way,551980154,Garganta del Diablo,waterfall,-25.6942534,-54.4374306,,True
+way,669805379,,waterfall,-27.4851773,-54.5955095,,False
+way,676224051,,waterfall,-26.9995484,-55.177745,,False
+way,676235380,,waterfall,-27.5545814,-54.8270318,,False
+way,676246313,,waterfall,-26.485658,-54.6052253,,False
+way,676247026,,waterfall,-26.4916372,-54.6032524,,False
+way,676249915,,waterfall,-26.3607354,-54.6266847,,False
+way,676253444,,waterfall,-26.6557001,-54.7564807,,False
+way,676254214,,waterfall,-26.6578503,-54.760356,,False
+way,676257005,,waterfall,-26.7203173,-54.7565264,,False
+way,676257007,,waterfall,-26.7157233,-54.7587506,,False
+way,676257010,,waterfall,-26.7146706,-54.7622145,,False
+way,676257012,,waterfall,-26.7127688,-54.760559,,False
+way,676257017,,waterfall,-26.710329,-54.7542067,,False
+way,676257022,,waterfall,-26.6997237,-54.7677879,,False
+way,676257028,,waterfall,-26.6844865,-54.7726481,,False
+way,676258546,,waterfall,-27.4452281,-54.9269019,,False
+way,676258548,,waterfall,-27.4564741,-54.9282138,,False
+way,676258551,,waterfall,-27.463629,-54.9162635,,False
+way,676264472,,waterfall,-26.998176,-55.1831836,,False
+way,676264474,,waterfall,-26.9990276,-55.1844918,,False
+way,676264482,,waterfall,-26.9957849,-55.1923058,,False
+way,676271118,,waterfall,-27.0575705,-53.8856603,,False
+way,676275348,,waterfall,-26.7654623,-54.1124713,,False
+way,676275349,,waterfall,-26.7658094,-54.1125691,,False
+way,676278785,,waterfall,-27.2422641,-54.229523,,False
+way,676278788,,waterfall,-27.2492117,-54.2252604,,False
+way,676278793,,waterfall,-27.26032,-54.2224326,,False
+way,676278795,,waterfall,-27.2608407,-54.2060647,,False
+way,676280833,,waterfall,-27.0955644,-53.9077684,,False
+way,676280840,,waterfall,-27.1260823,-53.9254443,,False
+way,676280841,,waterfall,-27.1266413,-53.925149,,False
+way,676280844,,waterfall,-27.1379365,-53.8980179,,False
+way,682857501,,waterfall,-27.0934557,-53.9014984,,False
+way,685069838,,waterfall,-25.701183,-54.4254552,,False
+way,692648162,,waterfall,-26.6505856,-54.7740804,,False
+way,694051570,,waterfall,-26.1536555,-54.632898,,False
+way,742147057,,waterfall,-26.6579702,-54.7561582,,False
+way,745170670,,waterfall,-27.4600795,-54.9234,,False
+way,745170671,,waterfall,-27.4591471,-54.9215324,,False
+way,762888516,Corredera Murciélago,waterfall,-27.6112937,-54.8418027,,True
+way,813940017,Corredera Itacarumí,waterfall,-25.6047899,-54.5339294,,True
